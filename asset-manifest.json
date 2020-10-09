@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/MahaRegister/static/css/main.9d8675a8.chunk.css",
+    "main.js": "/MahaRegister/static/js/main.c30d050d.chunk.js",
+    "main.js.map": "/MahaRegister/static/js/main.c30d050d.chunk.js.map",
+    "runtime-main.js": "/MahaRegister/static/js/runtime-main.f188920b.js",
+    "runtime-main.js.map": "/MahaRegister/static/js/runtime-main.f188920b.js.map",
+    "static/css/2.ea6b7726.chunk.css": "/MahaRegister/static/css/2.ea6b7726.chunk.css",
+    "static/js/2.db32e30d.chunk.js": "/MahaRegister/static/js/2.db32e30d.chunk.js",
+    "static/js/2.db32e30d.chunk.js.map": "/MahaRegister/static/js/2.db32e30d.chunk.js.map",
+    "index.html": "/MahaRegister/index.html",
+    "precache-manifest.b9afc4d6300274bbc5884828a3f71364.js": "/MahaRegister/precache-manifest.b9afc4d6300274bbc5884828a3f71364.js",
+    "service-worker.js": "/MahaRegister/service-worker.js",
+    "static/css/2.ea6b7726.chunk.css.map": "/MahaRegister/static/css/2.ea6b7726.chunk.css.map",
+    "static/css/main.9d8675a8.chunk.css.map": "/MahaRegister/static/css/main.9d8675a8.chunk.css.map",
+    "static/js/2.db32e30d.chunk.js.LICENSE.txt": "/MahaRegister/static/js/2.db32e30d.chunk.js.LICENSE.txt",
+    "static/media/bg.png": "/MahaRegister/static/media/bg.91157a46.png",
+    "static/media/msme.jpg": "/MahaRegister/static/media/msme.19f371d6.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f188920b.js",
+    "static/css/2.ea6b7726.chunk.css",
+    "static/js/2.db32e30d.chunk.js",
+    "static/css/main.9d8675a8.chunk.css",
+    "static/js/main.c30d050d.chunk.js"
+  ]
+}
